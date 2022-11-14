@@ -16,3 +16,5 @@ let lorem2 = `Esta es una frase epica
 
 console.log(lorem);
 console.log(lorem2);
+
+//ALT + 96 para comillas francesas: ``
