@@ -14,5 +14,6 @@
     "Course"
   ],
   "author": "Nestor Rios Garcia <neriga10@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
