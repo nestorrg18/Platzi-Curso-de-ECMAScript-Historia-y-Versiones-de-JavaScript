@@ -1,6 +1,6 @@
 const nombres = ["Andres", "Valeria", "Ana", "Ramiro", "Richard"]
 
-nombres.at(-1) // "Richard"
-nombres[-1] // undefined
-nombres.at(-3) // "Ana"
-nombres[nombres.length -1] // "Richard"
+console.log(nombres.at(-1))  // "Richard"
+console.log(nombres[-1])  // undefined
+console.log(nombres.at(-3))  // "Ana"
+console.log(nombres[nombres.length -1])  // "Richard"

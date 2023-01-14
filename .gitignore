@@ -1,3 +1,6 @@
 *jpg
 *png
 *gif
+*tempCodeRunnerFile.js
+node_modules/
+*package-lock.json

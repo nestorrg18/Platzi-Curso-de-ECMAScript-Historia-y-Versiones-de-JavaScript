@@ -15,5 +15,8 @@
   ],
   "author": "Nestor Rios Garcia <neriga10@hotmail.com>",
   "license": "MIT",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
 }
